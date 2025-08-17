@@ -115,5 +115,5 @@ Alongside replacements, operators should monitor underfill waste daily for early
 
 <br/>
 
-Go to my *[guthub homepage](https://github.com/Blessing336)*
+Go to my *[github homepage](https://github.com/Blessing336)*
 
