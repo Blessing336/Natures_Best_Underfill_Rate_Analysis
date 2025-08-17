@@ -9,4 +9,20 @@ Ultimately, the goal is to **identify actionable insights** and **develop recomm
 
 <br/>
 
+## Key Analysis and Recommendation Areas
+
+* Determine when the underfill trend began and how it has evolved
+* Compare the KPIs before vs. after the issue became noticeable
+* Identify patterns tied to nozzles
+* Deliver a data-backed Root with clear explanations and recommendations for the Operations team 
+
+<br/>
+
 # Data Structure
+
+![Data Structure](https://github.com/Blessing336/Natures_Best_Underfill_Rate_Analysis/blob/47cdab9e3cb2ebd9dd7059eb54678f9fdb9147d3/Resources/Natures%20Data%20Structure.png)
+
+<br/>
+
+# Executive Summary
+
