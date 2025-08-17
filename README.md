@@ -32,7 +32,7 @@ The issue is not evenly distributed. Line 1 is the clear hotspot, with **filler 
 
 <br/>
 
-# Findings
+# Insights
 
 
 
