@@ -14,7 +14,7 @@ Ultimately, the goal is to **identify actionable insights** and **develop recomm
 * Determine when the underfill trend began and how it has evolved
 * Compare the KPIs before vs. after the issue became noticeable
 * Identify patterns tied to nozzles
-* Deliver a data-backed Root with clear explanations and recommendations for the Operations team 
+* Deliver a data-backed Root Cause Analysis with clear explanations and recommendations for the Operations team 
 
 <br/>
 
@@ -25,4 +25,15 @@ Ultimately, the goal is to **identify actionable insights** and **develop recomm
 <br/>
 
 # Executive Summary
+
+Natures Best Juice Co. is facing a concentrated underfill problem that escalated rapidly after **June 28, 2025**. From that date, **underfill cost increased by 675% within just 18 days** compared with the entire four months prior, indicating a clear inflection point and sustained deterioration across recent batches.
+
+The issue is not evenly distributed. Line 1 is the clear hotspot, with **filler nozzles 2 and 4 showing the highest underfill rates** relative to peer nozzles. Before the spike, core KPIs (underfill rate, units underfilled cost, and juice waste (litres)) were stable and within tolerance; after the spike, these KPIs rose sharply, with repeated exceedances across multiple consecutive batches.
+
+<br/>
+
+# Findings
+
+
+
 
