@@ -43,7 +43,7 @@ This issue is as a result of how long we replaced the nozzles.
 
 # Insights
 
-![Natures](https://github.com/Blessing336/Natures_Best_Underfill_Rate_Analysis/blob/7bfb375ce9193b2069f1bcc510220e44b1febb35/Resources/Natures_Full.gif)
+![Natures](https://github.com/Blessing336/Natures_Best_Underfill_Rate_Analysis/blob/c256d2b172bcd0b1446e02789bbd14ce666212d5/Resources/natures_full.gif)
 
 <br/>
 
